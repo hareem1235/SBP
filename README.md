@@ -1,6 +1,6 @@
 Semester Break Projects :
 
-This repository contains projects that I worked on during my first semester break. The projects include a tic-tac-toe game and a snake game implemented in [insert programming language or framework].
+This repository contains projects that I worked on during my first semester break. The projects include a tic-tac-toe game and a snake game implemented in C language completely.
 
 Tic-Tac-Toe Game :
 
