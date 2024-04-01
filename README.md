@@ -1,37 +1,44 @@
-Semester Break Projects :
+# Semester Break Projects
 
-This repository contains projects that I worked on during my first semester break. The projects include a tic-tac-toe game and a snake game implemented in C language completely.
+Welcome to my Semester Break Projects repository! Here you'll find a collection of projects I developed during my semester break. These projects showcase my passion for programming and my desire to learn and explore different technologies. Feel free to dive in and explore each project.
 
-Tic-Tac-Toe Game :
+## Projects Overview
 
-The tic-tac-toe game is a classic two-player game implemented using [insert technologies used]. Players take turns marking spaces in a 3x3 grid. The first player to get three of their marks in a row, column, or diagonal wins the game.
+1. **Snake Game**
+   - Description: A classic Snake game implemented in C with a simple user interface.
+   - Features:
+     - Simple yet addictive gameplay where the player controls a snake to eat food and grow.
+     - Increasing difficulty as the snake grows longer and moves faster.
+     - Score tracking and high score functionality.
+
+2. **Hangman**
+   - Description: A text-based Hangman game implemented in C.
+   - Features:
+     - Interactive gameplay where the player guesses letters to reveal a hidden word.
+     - Visual representation of the hangman's gallows and progress.
+     - Word database with a variety of categories and difficulty levels.
+
+3. **Tic-Tac-Toe**
+   - Description: A classic Tic-Tac-Toe game implemented in C with a simple user interface.
+   - Features:
+     - Two-player mode where players take turns marking spaces on a 3x3 grid.
+     - Simple and intuitive interface with clear visual feedback.
+     - Win detection and announcement of the winner or a tie.
+
+4. **GUI Calculator**
+   - Description: A graphical calculator application implemented using Python and Tkinter.
+   - Features:
+     - Basic arithmetic operations (addition, subtraction, multiplication, division).
+     - Clear and user-friendly interface with buttons for numeric input and operations.
+     - Support for continuous calculations with memory functions.
 
 
-Features :
+## Feedback
 
-Two-player mode
-Simple user interface
-Win detection logic
+I'm always eager to improve my projects and learn from others' experiences. If you have any feedback, suggestions, or bug reports, please don't hesitate to reach out. Your input will help me enhance these projects and make them more enjoyable for everyone.
 
+## About Me
 
-Snake Game :
+I'm HAREEM KHAN , a passionate programmer and Cyber Security student at Ned University . These projects were born out of my love for coding and my desire to expand my skills during the semester break. Connect with me on [LinkedIn] : www.linkedin.com/in/hareem-khan-3aa4a629b  to learn more about my journey and interests.
 
-The snake game is a classic arcade game where the player controls a snake that moves around the screen, eating food to grow longer. The game ends if the snake collides with itself or the boundaries of the screen.
-
-
-Features :
-
-Single-player mode,
-
-Increasing difficulty as the snake grows longer,
-
-Score tracking
-
-How to Run :
-
-note : use all small keys
-
-W -> UP
-A -> LEFT 
-S -> RIGHT
-D -> DOWN
+Thank you for exploring my Semester Break Projects! Happy coding! 🚀
